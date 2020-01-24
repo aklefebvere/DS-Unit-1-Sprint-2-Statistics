@@ -79,7 +79,7 @@ What do you care about?
 
 
 What do you know about?
-
+What level did the bot make in the arcade game
 
 What decisions do you face?
 
@@ -100,13 +100,13 @@ Can you apply the templates to your topics?
 
 
 4. Answering a question people care about
-
+Does higher accuracy have a higher chance to win
 
 5. Valuable to businesses
 
 
 6. What's the most popular?
-
+Highest accuracy the rng rolled
 
 7. Cost/Money rankings
 
@@ -115,6 +115,7 @@ Can you apply the templates to your topics?
 
 What misconceptions do people have about your topic?
 
+The bot is always perfect
 
 ## Examples
 
@@ -123,6 +124,7 @@ What data storytelling example inspires you?
 
 Could you do a new hypothesis, for the same question?
 
+Higher accuracy does not affect the chances of winning
 
 Could you do a new question, for the same topic?
 
@@ -133,3 +135,4 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
+https://www.kaggle.com/depmountaineer/arcade-game-stats
